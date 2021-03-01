@@ -8,7 +8,7 @@
     "targets": [ "node12-macos-x64", "node10-win-x64" ]
   },
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "4.12.3",
     "get-port": "^5.1.1",
     "open": "^7.2.1"
   }
